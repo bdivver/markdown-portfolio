@@ -1,1 +1,1 @@
-[GitHub_Profile]https://github.com/bdivver
+[text]https://github.com/bdivver
